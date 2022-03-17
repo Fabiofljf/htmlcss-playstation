@@ -1,0 +1,37 @@
+/* COMMONS ROULES */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+/* DEBUG */
+
+
+/* UTILITY */
+
+:root {
+    --br_play_light: white;
+    --br_play_dark: black;
+    --br_play_blue: #161C3B;
+    --br_btn_darkgrey: #363636;
+    --br_btn_blue: #2D64E6;
+    --c_text_blue: #2183D4;
+    --c_text_red: #CD3D0F;
+    --br_play_footer: #00439C;
+}
+
+
+/* HEADER */
+
+
+/* MAIN */
+
+
+/* FOOTER */
