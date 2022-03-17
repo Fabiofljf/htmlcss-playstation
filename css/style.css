@@ -39,12 +39,9 @@ img {
     --br_play_footer: #00439C;
 }
 
-.mt_7 {
-    margin-top: 7rem;
+.br_play_blue {
+    background-color: var(--br_play_blue);
 }
-
-
-/* HEADER */
 
 .c_white {
     color: var(--c_text_white);
@@ -58,13 +55,28 @@ img {
     color: var(--c_text_blue);
 }
 
+.mt_7 {
+    margin-top: 7rem;
+}
 
-/* MAIN */
+.mt_9 {
+    margin-top: 9rem;
+}
 
 .consolle_img {
     max-width: 50%;
     margin-bottom: 10px;
 }
+
+.img_50 {
+    max-width: 50%;
+}
+
+
+/* HEADER */
+
+
+/* MAIN */
 
 
 /* FOOTER */
