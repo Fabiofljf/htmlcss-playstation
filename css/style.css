@@ -11,6 +11,10 @@ img {
     max-width: 100%;
 }
 
+.btn {
+    border-radius: 3rem;
+}
+
 
 /* DEBUG */
 
@@ -35,6 +39,10 @@ img {
     --br_play_footer: #00439C;
 }
 
+.mt_7 {
+    margin-top: 7rem;
+}
+
 
 /* HEADER */
 
@@ -52,6 +60,11 @@ img {
 
 
 /* MAIN */
+
+.consolle_img {
+    max-width: 50%;
+    margin-bottom: 10px;
+}
 
 
 /* FOOTER */
