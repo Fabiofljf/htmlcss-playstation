@@ -30,6 +30,7 @@ img {
     --br_play_light: white;
     --br_play_dark: black;
     --br_play_blue: #161C3B;
+    --br_play_darkbrown: #1F1F1F;
     --br_btn_darkgrey: #363636;
     --br_btn_blue: #2D64E6;
     --c_text_white: white;
@@ -37,6 +38,10 @@ img {
     --c_text_red: #CD3D0F;
     --c_text_black: black;
     --br_play_footer: #00439C;
+}
+
+.br_play_darkbrown {
+    background-color: var(--br_play_darkbrown);
 }
 
 .br_play_blue {
@@ -59,8 +64,8 @@ img {
     margin-top: 7rem;
 }
 
-.mt_9 {
-    margin-top: 9rem;
+.mt_8 {
+    margin-top: 8rem;
 }
 
 .consolle_img {
