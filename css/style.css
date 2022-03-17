@@ -29,16 +29,10 @@ img {
     --br_play_footer: #00439C;
 }
 
-.h_50 {
-    height: 50px;
-}
-
 
 /* HEADER */
 
 #barra_sony {
-    height: 50px;
-    background-color: black;
     color: var(--c_text_white);
 }
 
