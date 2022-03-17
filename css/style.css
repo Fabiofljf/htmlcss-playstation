@@ -13,6 +13,11 @@ img {
 
 /* DEBUG */
 
+.debug .hero {
+    background-color: #2183D4;
+    height: 500px;
+}
+
 
 /* UTILITY */
 
