@@ -22,13 +22,25 @@ img {
     --br_play_blue: #161C3B;
     --br_btn_darkgrey: #363636;
     --br_btn_blue: #2D64E6;
+    --c_text_white: white;
     --c_text_blue: #2183D4;
     --c_text_red: #CD3D0F;
+    --c_text_black: black;
     --br_play_footer: #00439C;
+}
+
+.h_50 {
+    height: 50px;
 }
 
 
 /* HEADER */
+
+#barra_sony {
+    height: 50px;
+    background-color: black;
+    color: var(--c_text_white);
+}
 
 
 /* MAIN */
