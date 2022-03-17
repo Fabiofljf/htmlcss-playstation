@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
@@ -37,9 +38,16 @@ img {
 
 /* HEADER */
 
-#barra_sony {
+.c_white {
     color: var(--c_text_white);
-    font-family: Arial, Helvetica, sans-serif;
+}
+
+.c_dark {
+    color: var(--c_text_black);
+}
+
+.c_blue {
+    color: var(--c_text_blue);
 }
 
 
