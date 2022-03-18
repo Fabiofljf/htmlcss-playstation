@@ -31,6 +31,7 @@ img {
     --br_play_dark: black;
     --br_play_blue: #161C3B;
     --br_play_darkbrown: #1F1F1F;
+    --br_play_grey: #BEBCBB;
     --br_btn_darkgrey: #363636;
     --br_btn_blue: #2D64E6;
     --c_text_white: white;
@@ -39,6 +40,10 @@ img {
     --c_text_black: black;
     --c_text_grey: #727272;
     --br_play_footer: #00439C;
+}
+
+.br_play_grey {
+    background-color: var(--br_play_grey);
 }
 
 .br_play_darkbrown {
@@ -80,6 +85,10 @@ img {
 
 .img_50 {
     max-width: 50%;
+}
+
+.w_7 {
+    width: 70%;
 }
 
 
