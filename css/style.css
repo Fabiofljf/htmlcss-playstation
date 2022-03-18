@@ -15,6 +15,10 @@ img {
     border-radius: 3rem;
 }
 
+li {
+    list-style-type: none;
+}
+
 
 /* DEBUG */
 
@@ -109,8 +113,9 @@ img {
 
 .hero {
     background-image: url("../img/jumbo-bg.png");
-    height: 450px;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
     background-repeat: no-repeat;
 }
 
