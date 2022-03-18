@@ -18,11 +18,6 @@ img {
 
 /* DEBUG */
 
-.debug .hero {
-    background-color: #2183D4;
-    height: 500px;
-}
-
 
 /* UTILITY */
 
@@ -52,6 +47,10 @@ img {
 
 .br_play_blue {
     background-color: var(--br_play_blue);
+}
+
+.br_play_footer {
+    background-color: var(--br_play_footer);
 }
 
 .c_grey {
@@ -107,6 +106,13 @@ img {
 
 
 /* MAIN */
+
+.hero {
+    background-image: url("../img/jumbo-bg.png");
+    height: 450px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 
 /* FOOTER */
