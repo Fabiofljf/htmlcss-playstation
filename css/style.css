@@ -37,6 +37,7 @@ img {
     --c_text_blue: #2183D4;
     --c_text_red: #CD3D0F;
     --c_text_black: black;
+    --c_text_grey: #727272;
     --br_play_footer: #00439C;
 }
 
@@ -46,6 +47,10 @@ img {
 
 .br_play_blue {
     background-color: var(--br_play_blue);
+}
+
+.c_grey {
+    color: var(--c_text_grey);
 }
 
 .c_white {
