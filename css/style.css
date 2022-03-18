@@ -123,9 +123,15 @@ li {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 600px;
     background-repeat: no-repeat;
 }
 
 
 /* FOOTER */
+
+@media screen and (min-width:720) {
+    .da_togliere {
+        visibility: hidden;
+    }
+}
