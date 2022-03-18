@@ -70,6 +70,10 @@ img {
     color: var(--c_text_blue);
 }
 
+.mt_5 {
+    margin-top: 5rem;
+}
+
 .mt_7 {
     margin-top: 7rem;
 }
@@ -93,6 +97,13 @@ img {
 
 
 /* HEADER */
+
+.special_ball {
+    width: 1px;
+    height: auto;
+    border-radius: 50%;
+    background-color: var(--c_text_blue);
+}
 
 
 /* MAIN */
