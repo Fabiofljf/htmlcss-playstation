@@ -141,6 +141,10 @@ img {
     margin-top: -5px;
 }
 
+.btn-light:hover {
+    color: var(--c_text_blue);
+}
+
 
 /* section - consolle */
 
