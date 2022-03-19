@@ -119,6 +119,9 @@ img {
 
 /* MAIN */
 
+
+/* jumbotron */
+
 .hero {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
@@ -136,6 +139,13 @@ img {
 
 .effetto_trans:hover {
     margin-top: -5px;
+}
+
+
+/* section - consolle */
+
+.effetto_riga:hover {
+    border-bottom: 1px solid var(--br_btn_blue);
 }
 
 
