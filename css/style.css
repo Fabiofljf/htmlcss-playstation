@@ -94,8 +94,8 @@ li {
     max-width: 50%;
 }
 
-.w_7 {
-    width: 70%;
+.w_5 {
+    width: 50%;
 }
 
 
@@ -114,8 +114,8 @@ li {
 .hero {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
-    background-position: center;
-    height: 500px;
+    background-position: top;
+    height: 600px;
     background-repeat: no-repeat;
 }
 
@@ -130,8 +130,7 @@ li {
 
 /* FOOTER */
 
-@media screen and (min-width:720) {
-    .da_togliere {
-        visibility: hidden;
-    }
+@media screen and (min-width:720) {}
+
+
 }
